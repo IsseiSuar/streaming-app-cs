@@ -24,7 +24,7 @@ Clone this repository
 git clone git@github-personal:IsseiSuar/streaming-app-cs.git
 ```
 
-intall dependecies
+Install dependecies
 
   ```bash
 npm install
