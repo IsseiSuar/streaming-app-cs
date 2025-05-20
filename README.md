@@ -16,7 +16,7 @@ Install with:
   npm install -g expo-cli
  ```
 
-## Installation
+## 🏡 Installation
 
 Clone this repository
 
