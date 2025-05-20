@@ -20,16 +20,13 @@ Install with:
 
 Clone this repository
 
-```bash
-
+  ```bash
 git clone git@github-personal:IsseiSuar/streaming-app-cs.git
-
 ```
 
 intall dependecies
 
-```bash
-
+  ```bash
 npm install
 
 # o con yarn, as you prefer.
@@ -39,10 +36,8 @@ yarn
 
 Start the development server:
 
-```bash
-
+  ```bash
 npx expo start
-
 ```
 
 
