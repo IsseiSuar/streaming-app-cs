@@ -15,13 +15,13 @@ A continuación se muestran algunas vistas de la app:
 
 ---
 
-### 🎥 Top Movie Banner
+### 🎥 Details Banner
 
 ![Details](assets/readme/details.png)
 
 ---
 
-### 🎞️ Scrollable Sections
+### 🎞️ Detials Sections
 
 ![Details](assets/readme/more-details.png)
 
